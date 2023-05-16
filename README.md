@@ -5,11 +5,13 @@
 <br>
 
 ### My interest
-🌐 - Web Programming
-🧮 - Mathematic
-📊 - Statistic
-💻 - Machine Learning
-🗿 - Cartoon
+<ul>
+<li>🌐 Web Programming</li>
+<li>🧮 Mathematic</li>
+<li>📊 Statistic</li>
+<li>💻 Machine Learning</li>
+<li>🗿 Cartoon</li>
+</ul>
 
 <!--
 **iqbalthex/iqbalthex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
