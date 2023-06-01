@@ -15,7 +15,7 @@
 </ul>
 
 ### Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=iqbalthex&theme=python-dark&date_format=j%20M%5B%20Y%5D&fire=00EB90&ring=63A8EB)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=iqbalthex&theme=python-dark&date_format=j%20M%5B%20Y%5D&fire=00EB90&border_radius=20&ring=63A8EB)](https://git.io/streak-stats)
 
 <!--
 **iqbalthex/iqbalthex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
