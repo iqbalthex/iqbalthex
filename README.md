@@ -20,4 +20,4 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=iqbalthex&theme=python-dark&date_format=j%20M%5B%20Y%5D&fire=00EB90&border_radius=20&ring=63A8EB)](https://git.io/streak-stats)
 
 ### Wakatime
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iqbal_8rgz&bg_color=80,171717,777a7a&text_color=c7c7c7)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iqbal_8rgz&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
