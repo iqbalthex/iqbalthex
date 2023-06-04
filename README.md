@@ -4,7 +4,7 @@
 
 <br>
 
-### My interest
+## My interest
 
 <ul>
 <li>🌐 Web Programming</li>
@@ -14,20 +14,10 @@
 <li>🗿 Cartoon</li>
 </ul>
 
-### Stats
+## Stats
+
+### Github
 [![GitHub Streak](https://streak-stats.demolab.com?user=iqbalthex&theme=python-dark&date_format=j%20M%5B%20Y%5D&fire=00EB90&border_radius=20&ring=63A8EB)](https://git.io/streak-stats)
 
-<!--
-**iqbalthex/iqbalthex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Wakatime
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iqbal_8rgz&bg_color=80,171717,777a7a&text_color=c7c7c7)](https://github.com/anuraghazra/github-readme-stats)
